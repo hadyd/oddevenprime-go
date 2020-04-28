@@ -4,6 +4,14 @@ import (
 	"fmt"
 )
 
+// Soal Latihan Array 2
+// 1. Buatlah 1 buah array berukuran 30 dan isilah dengan 20 angka acak
+
+// 2. Buatlah program yang akan menampilkan semua anggota yang dengan ketentuan:
+// 	Tampilkan seluruh bilangan genap dan hitung countnya
+// 	Tampilkan seluruh bilangan ganjil dan hitung countnya
+// 	Tampilkan seluruh bilangan prima dan hitung countnya
+
 func main() {
 	array := [30]int{21, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 1, 2, 3, 4, 5, 6, 7, 8}
 
